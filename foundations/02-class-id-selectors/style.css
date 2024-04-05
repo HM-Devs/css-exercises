@@ -1,5 +1,5 @@
 .odd{
-    font-family: Verdana, DejaVu Sans, sans-serif;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
     background-color: rgb(215, 148, 188)
 }
 
@@ -14,6 +14,6 @@
 
 #id-2{
     background-color:hsl(120, 90%, 42%);
-    font-size:36px;
+    font-size:24px;
     font-weight: bold;
 }
